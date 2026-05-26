@@ -1,0 +1,1 @@
+codex --sandbox read-only --ask-for-approval on-request
