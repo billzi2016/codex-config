@@ -34,6 +34,7 @@
 - commit 信息必须使用中文，并清楚描述本次变更内容。
 - 第一次 commit 不要使用“初始化 xxx”“initial commit”这类空泛标题。
 - commit 信息必须使用 Markdown 风格的多行正文，写清楚所有主要改动，不能只有一行。
+- Git 相关说明和 commit 信息必须写得非常详细，明确表明意图，并符合 Linus 对清晰、具体、可审查提交说明的要求。
 - commit 信息建议格式：
 
 ```text
